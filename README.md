@@ -127,4 +127,4 @@ The following files are automatically backed up to `/root/ezlabs/`:
 
 ---
 
-*Guide created by Ez Labs Nodes*
+*Guide created by FasoNodez*
