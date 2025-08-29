@@ -28,7 +28,7 @@ sudo reboot
 
 ### 4. Setup Node
 ```bash
-cd && rm -rf rl-swarm.zip && wget https://raw.githubusercontent.com/ezlabsnodes/gensyn/main/rl-swarm.zip && unzip rl-swarm.zip && cd rl-swarm
+cd && rm -rf officialauto.zip && wget https://raw.githubusercontent.com/ezlabsnodes/gensyn/main/officialauto.zip && unzip officialauto.zip && cd rl-swarm
 ```
 
 ### 5. Start in Screen Session
