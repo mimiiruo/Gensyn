@@ -73,7 +73,7 @@ wget -O systemd.sh https://raw.githubusercontent.com/ezlabsnodes/gensyn/main/sys
 
 Check service logs:
 ```bash
-journalctl -u gensyn -f
+journalctl -u rl-swarm -f -o cat
 ```
 
 ## Troubleshooting
